@@ -5,8 +5,21 @@ button{
     padding: 10px 20px;
     border-radius: 12px;
     background-color: black;
-    border-color: aliceblue;
-    border: 120px;
+    border: 2px solid white;
     color: azure;
     
+}
+body{
+    background-color: black;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+  display: flex;          /* make it flex */
+  flex-direction: column; /* vertical list */
+  align-items: center;    /* centers children horizontally */
+}
+li {
+    color: aqua;
 }
