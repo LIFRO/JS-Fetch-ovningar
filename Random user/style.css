@@ -1,0 +1,12 @@
+button{
+    display: block;
+    align-items: center;
+    margin: 20px auto;
+    padding: 10px 20px;
+    border-radius: 12px;
+    background-color: black;
+    border-color: aliceblue;
+    border: 120px;
+    color: azure;
+    
+}
